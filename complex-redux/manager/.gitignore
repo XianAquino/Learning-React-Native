@@ -2,6 +2,9 @@
 #
 .DS_Store
 
+#Config file
+src/ENV/config.js
+
 # Xcode
 #
 build/
